@@ -31,6 +31,8 @@ hs_err_pid*
 *.iml
 out
 gen
+target
+
 ### macOS template
 # General
 .DS_Store
